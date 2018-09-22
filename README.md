@@ -1,3 +1,3 @@
-# My Portfolio
-k-k-s.me
-www.linkedin.com/in/krishnaksrinivasan
+## My Portfolio
+Website : http://k-k-s.me
+LinkedIn: http://www.linkedin.com/in/krishnaksrinivasan
